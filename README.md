@@ -1,4 +1,4 @@
-[Your Alt Text.](zoya-path-to-nowhere.gif)
+![Your Alt Text](zoya-path-to-nowhere.gif)
 ## Hi there 👋
 
 - 🔭 I’m currently working on ...
