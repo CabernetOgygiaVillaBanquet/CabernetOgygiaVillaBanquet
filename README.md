@@ -1,4 +1,4 @@
-![MasterHead](banner.png)
+  <img align="right" alt="Coding" width="400" src="https://tenor.com/view/path-to-nowhere-ptn-deren-gif-216604158090534587">
 ## Hi there 👋
 
 - 🔭 I’m currently working on ...
