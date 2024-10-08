@@ -1,4 +1,4 @@
-[![MasterHead](zoya-path-to-nowhere.gif)]
+![MasterHead](zoya-path-to-nowhere.gif)
 ## Hi there 👋
 
 - 🔭 I’m currently working on ...
